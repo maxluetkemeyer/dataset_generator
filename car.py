@@ -5,7 +5,7 @@ class Car:
         self.year: int = year
         self.number_seats: int = number_seats
         self.weight_in_kg: int = weight_in_kg
-        self.price_in_euro: float = price_in_euro
+        self.price_in_euro: int = price_in_euro
         self.fuel_level_in_percent: float = fuel_level_in_percent  # 0 - 1
 
         self.speed: int = 0
