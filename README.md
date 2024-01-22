@@ -1,5 +1,6 @@
 # Dataset generator
 ## Usage
+Use the "dataset_generator.ipynb" file and execute the "generate_dataset" function. Make sure you have all needed packages installed listed in the "requirements.txt" file.
 
 ## Development
 ### VSCode
